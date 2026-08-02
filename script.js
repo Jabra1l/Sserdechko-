@@ -7,7 +7,7 @@ if (!context) {
     throw new Error("Canvas 2D is not supported by this browser.");
 }
 
-const MESSAGE = "I love you dzhan <3";
+const MESSAGE = "I love you жан <3";
 const TEXT_COLOR = "#ffb6c1";
 const GLOW_COLOR = "#ff69b4";
 const DRAW_INTERVAL_MS = 52;
